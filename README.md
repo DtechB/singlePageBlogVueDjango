@@ -51,6 +51,14 @@ Configuration of project almost done.
 
 <hr>
 
+<p>
+After installing packages migrate database: 
+</p>
+<pre>
+python manage.py migrate
+</pre>
+<p><b>If in windows command python didn't work please try with py</b></p>
+
 <h3 style="margin: 30px 0 -5px 0;">
 🏁 Run the backend api
 </h3>
