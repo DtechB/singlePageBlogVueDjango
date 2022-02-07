@@ -1,7 +1,7 @@
 <template>
   <nav id="nav" class="navbar sticky-top shadow-sm navbar-expand-lg navbar-light mb-5" style="background-color: #e3f2fd;">
     <div class="container-fluid">
-      <router-link class="navbar-brand" to="/">Smart Tech</router-link>
+      <router-link class="navbar-brand" to="/">Single Page</router-link>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor03"
               aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

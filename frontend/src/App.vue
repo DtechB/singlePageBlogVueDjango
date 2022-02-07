@@ -44,4 +44,7 @@ export default {
 #nav .navbar-brand {
   color: #000 !important;
 }
+html body a {
+  text-decoration: none;
+}
 </style>

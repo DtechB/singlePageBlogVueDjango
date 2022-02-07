@@ -70,7 +70,11 @@ export default {
           })
     },
     doRemove() {
-
+      axios
+        .delete(`/article/${this.$route.params.slug}/`)
+        .then(response => {
+          this.$router.push('/')
+        })
     }
   }
 }
